@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>flyImage/app.png</file>
+        <file>flyImage/background.png</file>
+        <file>flyImage/bird.png</file>
+        <file>flyImage/bombo.png</file>
+        <file>flyImage/zidan.png</file>
+        <file>flyImage/bomb-1.png</file>
+        <file>flyImage/bomb-2.png</file>
+        <file>flyImage/bomb-4.png</file>
+        <file>flyImage/bomb-5.png</file>
+        <file>flyImage/bomb-6.png</file>
+        <file>flyImage/bomb-7.png</file>
+        <file>flyImage/SAM.png</file>
+        <file>flyImage/bomb-3.png</file>
+        <file>flyImage/bgm.wav</file>
+        <file>flyImage/bomb.wav</file>
+    </qresource>
+</RCC>
