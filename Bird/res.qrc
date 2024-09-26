@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/bird.gif</file>
+        <file>Image/bird1.png</file>
+        <file>Image/bird2.png</file>
+        <file>Image/bird3.png</file>
+        <file>Image/bird4.png</file>
+        <file>Image/birdicon.ico</file>
+    </qresource>
+</RCC>
